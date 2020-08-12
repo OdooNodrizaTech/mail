@@ -1,3 +1,4 @@
+[![Build Status](https://runbot.nodrizatech.com/runbot/badge/22/12.0.svg)](https://runbot.nodrizatech.com/runbot/repo/https-github-com-odoonodrizatech-mail-22)
 [![Build Status](https://travis-ci.org/OdooNodrizaTech/mail.svg?branch=12.0)](https://travis-ci.org/OdooNodrizaTech/mail)
 [![codecov](https://codecov.io/gh/OdooNodrizaTech/mail/branch/12.0/graph/badge.svg)](https://codecov.io/gh/OdooNodrizaTech/mail)
 
